@@ -1,0 +1,33 @@
+h2{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 32px;
+  margin: 20px 0px;
+}
+
+span{
+  margin-top: 0px;
+  display: block;
+  width: 130px;
+  font-size: 20px;
+  padding: 10px 15px 10px 15px;
+  margin-bottom: 20px;
+}
+
+#edit-todo-button{
+  display: inline-block;
+  width: 40px;
+  background-color: #1ABC9C;
+  margin-right: 5px;
+}
+
+#delete-todo-button{
+  display: inline-block;
+  width: 60px;
+  background-color: #F44336;
+}
+
+.card a {
+    display: block;
+}
+body {background-color:#d8cce5;}
